@@ -13,9 +13,8 @@ is rarely used in work on reading comprehension.
 
 Main findings:
 
-- Pupil tracks word difficulty (surprisal and frequency), but only after centering
-  pupil within each reader, and it drifts strongly from the start to the end of
-  each passage.
+- Pupil tracks word difficulty (surprisal and frequency), and it drifts strongly
+  from the start to the end of each passage.
 - The average pupil over a whole passage says nothing about whether the question
   was answered correctly.
 - Pupil is higher on the words that hold the answer (the critical span), and this
