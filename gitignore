@@ -1,4 +1,0 @@
-# data files are downloaded by the notebook, not stored here
-*.csv
-*.zip
-.ipynb_checkpoints/
