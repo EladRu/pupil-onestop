@@ -13,7 +13,7 @@ is rarely used in work on reading comprehension.
 
 Main findings:
 
-- Pupil tracks word difficulty (surprisal and frequency), and it drifts strongly
+- Pupil tracks word surprisal, and it drifts strongly
   from the start to the end of each passage.
 - The average pupil over a whole passage says nothing about whether the question
   was answered correctly.
